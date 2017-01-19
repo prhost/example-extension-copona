@@ -1,0 +1,13 @@
+{
+  "name": "prhost/example-extension-copona",
+  "description": "Example extension Copona",
+  "type": "copona-extension",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Kallef Alexandre",
+      "email": "prhost@prhost.com.br"
+    }
+  ],
+  "minimum-stability": "stable"
+}
